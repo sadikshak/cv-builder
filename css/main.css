@@ -1,0 +1,43 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif';
+}
+.main{
+    height: 1150px;
+    width : 800px;
+    background-color: rgb(207, 204, 199);
+    box-shadow: 5px 5px 15px #b9b6b6 ; 
+    margin: 20px auto;
+
+}
+.top-section{
+    background-color: #0d1320;
+    text-align: center;
+    padding: 20px;
+
+
+}
+.profile{
+    width: 150px;
+    border-radius: 50%;
+
+}
+.p1{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0px;
+    margin-top: 10 px;
+
+}
+.p2{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0px;
+    margin-top: 10 px;
+
+
+}
