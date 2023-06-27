@@ -24,7 +24,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif';
     border-radius: 50%;
 
 }
-.p1{
+.name{
     color: white;
     font-size: 40px;
     font-weight: bold;
@@ -32,7 +32,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif';
     margin-top: 10 px;
 
 }
-.p2{
+.sub{
     color: white;
     font-size: 30px;
     font-weight: bold;
