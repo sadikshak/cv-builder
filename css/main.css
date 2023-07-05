@@ -2,10 +2,14 @@
 body{
     margin: 0px;
     padding: 0px;
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif';
+    background-image: radial-gradient(#c7c7c7 25%, #c7c7c7 74%);
+font-family: system-ui;
+}
+.clearfix{
+    clear: both;
 }
 .main{
-    height: 1150px;
+    height: 1500px;
     width : 800px;
     background-color: rgb(207, 204, 199);
     box-shadow: 5px 5px 15px #b9b6b6 ; 
@@ -13,7 +17,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif';
 
 }
 .top-section{
-    background-color: #0d1320;
+    background-color: #151b29;
     text-align: center;
     padding: 20px;
 
@@ -31,6 +35,9 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif';
     margin: 0px;
     margin-top: 10 px;
 
+}
+.name span{
+    font: family 100px;color: #c7c7c7 ;
 }
 .pro{
     color: white;
@@ -66,6 +73,25 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif';
     font-weight:600 ;
 }
 .p3{
-    color: #c7c7c7;
+    color: #111010;
     margin-bottom: -5px;
+}
+.fa{
+    color: #151b29;
+
+}
+.skills{
+    margin-left: -20px;
+    margin-bottom: 0px;
+}
+.skills li{
+    padding: 5px;
+    color:#0d1320 ;
+}
+.skills li span{
+    color: #020000;
+}
+.p-4{
+    font-size: 14 px;
+    color: #c7c7c7;
 }
