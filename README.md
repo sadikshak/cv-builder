@@ -1,4 +1,5 @@
-CV Builder
+CV Page
+
 Introduction:
 Welcome to our CV Builder! This tool is designed to help you create professional resumes quickly and effortlessly.
 
